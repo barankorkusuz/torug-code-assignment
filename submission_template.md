@@ -4,6 +4,8 @@
 - Name: Mehmet Baran Korkusuz
 - Approximate time spent: ~60 minutes
 
+Please look at NOTES.md for my assumptions.
+
 ---
 
 # Task 1 — Average Order Value
