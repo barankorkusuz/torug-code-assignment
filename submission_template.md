@@ -80,8 +80,6 @@ If you were to test this function, what areas or scenarios would you focus on, a
 ### Corrected code
 See `correct_task2.py`
 
-> Note: The original AI-generated code is preserved in `task2.py`.
-
 
 ### Testing Considerations
 If you were to test this function, what areas or scenarios would you focus on, and why?
@@ -133,8 +131,6 @@ If you were to test this function, what areas or scenarios would you focus on, a
 
 ### Corrected code
 See `correct_task3.py`
-
-> Note: The original AI-generated code is preserved in `task3.py`.
 
 ### Testing Considerations
 If you were to test this function, what areas or scenarios would you focus on, and why?
